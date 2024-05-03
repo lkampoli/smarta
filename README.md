@@ -82,3 +82,7 @@ In the main Python script, SMARTA.py, you will find three examples of test cases
 The triangulated surface meshes for these test cases can be found in the GitHub repository.
 
 To use these test cases, uncomment the respective lines in each section of the main script. You don't need to modify any other file. These examples are intuitive enough to serve as a guide in the absence of a user's manual.
+
+## References
+
+[1] P. Parodi, Z. Alsalihi, T. Magin; SMARTA: A code based on the view-factor method for collisionless flows. AIP Conf. Proc. 8 February 2024; 2996 (1): 060007. https://doi.org/10.1063/5.0187438 https://www.researchgate.net/publication/377982895_SMARTA_a_Code_Based_on_the_View-Factor_Method_for_Collisionless_Flows
